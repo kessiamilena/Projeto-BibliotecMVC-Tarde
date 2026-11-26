@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projeto Bibliotec MVC tarde")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9be48638ce922a897bcb443f45e1e97e6351007")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projeto Bibliotec MVC tarde")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projeto Bibliotec MVC tarde")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
